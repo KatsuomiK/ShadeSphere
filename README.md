@@ -1,6 +1,6 @@
 ShadeSphere
 ===========
-A script to create a sphere shade to prevent users from looking back.
+A script to create a sphere shade which prevents users from looking back.
 
 # Requirements
 
@@ -9,6 +9,8 @@ A script to create a sphere shade to prevent users from looking back.
 - Unity 5.1.1+
 
 # How to use
+
+Drop ShadeShpere prefab to your scene and play.
 
 # License
 
