@@ -4,9 +4,7 @@ A script to create a sphere shade which prevents users from looking back.
 
 # Requirements
 
-- Oculus Rift DK2
-- Oculus Runtime 0.6.0+
-- Unity 5.1.1+
+- Unity 2017.1.1+
 
 # How to use
 
@@ -20,5 +18,5 @@ This project is public domain.
 
 Katsuomi Kobayashi ([@KatsuomiK](https://twitter.com/KatsuomiK))
 
-http://framesynthesis.com/
+https://framesynthesis.com/
 

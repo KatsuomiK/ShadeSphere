@@ -24,7 +24,7 @@
 			v2f vert(meshdata mesh)
 			{
 				v2f o;
-				o.position = mul(UNITY_MATRIX_MVP, mesh.vertex);
+				o.position = UnityObjectToClipPos(mesh.vertex);
 				o.color = mesh.color;
 				return o;
 			}
