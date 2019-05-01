@@ -16,7 +16,7 @@ This project is public domain.
 
 # Author
 
-Katsuomi Kobayashi ([@KatsuomiK](https://twitter.com/KatsuomiK))
+Katsuomi Kobayashi ([@korinVR](https://twitter.com/korinVR) / [@korinVR_en](https://twitter.com/korinVR_en))
 
 https://framesynthesis.com/
 
